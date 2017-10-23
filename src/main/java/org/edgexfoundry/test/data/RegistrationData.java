@@ -41,7 +41,7 @@ public interface RegistrationData {
 	// for embedded addressable
 	static final String TEST_ADDR_NAME = "MQTT_PIPE";
 	static final Protocol TEST_PROTOCOL = Protocol.TCP;
-	static final String TEST_ADDRESS = "tcp://m10.cloudmqtt.com";
+	static final String TEST_ADDRESS = "m10.cloudmqtt.com";
 	static final int TEST_PORT = 15421;
 	static final String TEST_PATH = "";
 	static final String TEST_PUBLISHER = "EdgeXExportPublisher";
